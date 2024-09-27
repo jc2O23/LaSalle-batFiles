@@ -1,0 +1,1 @@
+start rundll32.exe printui.dll,PrintUIEntry /o /n "\\admin-printsrv1\LaSallePrint"
